@@ -2,3 +2,4 @@ tensorflow
 jupyter
 pydicom
 matplotlib
+tqdm
