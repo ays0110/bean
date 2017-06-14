@@ -3,3 +3,5 @@ jupyter
 pydicom
 matplotlib
 tqdm
+scipy
+Pillow
