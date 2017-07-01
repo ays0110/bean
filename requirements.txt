@@ -8,3 +8,4 @@ Pillow
 scikit-image
 seaborn
 keras
+scikit-image
