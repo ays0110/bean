@@ -9,3 +9,5 @@ scikit-image
 seaborn
 keras
 scikit-image
+Cython
+scikit-learn
