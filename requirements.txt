@@ -11,3 +11,4 @@ keras
 scikit-image
 Cython
 scikit-learn
+h5py
