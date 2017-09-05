@@ -13,3 +13,6 @@ Cython
 scikit-learn
 h5py
 nibabel
+hyperopt
+git+https://github.com/maxpumperla/hyperas
+dill
