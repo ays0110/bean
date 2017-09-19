@@ -1,0 +1,40 @@
+INFO (hyperopt.mongoexp): Error while unpickling. Try installing dill via "pip install dill" for enhanced pickling support.
+INFO (hyperopt.mongoexp): job exception: No module named 'temp_model'
+INFO (hyperopt.mongoexp): Error while unpickling. Try installing dill via "pip install dill" for enhanced pickling support.
+INFO (hyperopt.mongoexp): job exception: No module named 'temp_model'
+INFO (hyperopt.mongoexp): Error while unpickling. Try installing dill via "pip install dill" for enhanced pickling support.
+INFO (hyperopt.mongoexp): job exception: No module named 'temp_model'
+INFO (hyperopt.mongoexp): Error while unpickling. Try installing dill via "pip install dill" for enhanced pickling support.
+INFO (hyperopt.mongoexp): job exception: No module named 'temp_model'
+INFO (hyperopt.mongoexp): Error while unpickling. Try installing dill via "pip install dill" for enhanced pickling support.
+INFO (hyperopt.mongoexp): job exception: No module named 'temp_model'
+INFO (hyperopt.mongoexp): Error while unpickling. Try installing dill via "pip install dill" for enhanced pickling support.
+INFO (hyperopt.mongoexp): job exception: No module named 'temp_model'
+INFO (hyperopt.mongoexp): Error while unpickling. Try installing dill via "pip install dill" for enhanced pickling support.
+INFO (hyperopt.mongoexp): job exception: No module named 'temp_model'
+INFO (hyperopt.mongoexp): Error while unpickling. Try installing dill via "pip install dill" for enhanced pickling support.
+INFO (hyperopt.mongoexp): job exception: No module named 'temp_model'
+INFO (hyperopt.mongoexp): Error while unpickling. Try installing dill via "pip install dill" for enhanced pickling support.
+INFO (hyperopt.mongoexp): job exception: No module named 'temp_model'
+INFO (hyperopt.mongoexp): Error while unpickling. Try installing dill via "pip install dill" for enhanced pickling support.
+INFO (hyperopt.mongoexp): job exception: No module named 'temp_model'
+INFO (hyperopt.mongoexp): Error while unpickling. Try installing dill via "pip install dill" for enhanced pickling support.
+INFO (hyperopt.mongoexp): job exception: No module named 'temp_model'
+INFO (hyperopt.mongoexp): Error while unpickling. Try installing dill via "pip install dill" for enhanced pickling support.
+INFO (hyperopt.mongoexp): job exception: No module named 'temp_model'
+INFO (hyperopt.mongoexp): Error while unpickling. Try installing dill via "pip install dill" for enhanced pickling support.
+INFO (hyperopt.mongoexp): job exception: No module named 'temp_model'
+INFO (hyperopt.mongoexp): Error while unpickling. Try installing dill via "pip install dill" for enhanced pickling support.
+INFO (hyperopt.mongoexp): job exception: No module named 'temp_model'
+INFO (hyperopt.mongoexp): Error while unpickling. Try installing dill via "pip install dill" for enhanced pickling support.
+INFO (hyperopt.mongoexp): job exception: No module named 'temp_model'
+INFO (hyperopt.mongoexp): Error while unpickling. Try installing dill via "pip install dill" for enhanced pickling support.
+INFO (hyperopt.mongoexp): job exception: No module named 'temp_model'
+INFO (hyperopt.mongoexp): Error while unpickling. Try installing dill via "pip install dill" for enhanced pickling support.
+INFO (hyperopt.mongoexp): job exception: No module named 'temp_model'
+INFO (hyperopt.mongoexp): Error while unpickling. Try installing dill via "pip install dill" for enhanced pickling support.
+INFO (hyperopt.mongoexp): job exception: No module named 'temp_model'
+INFO (hyperopt.mongoexp): Error while unpickling. Try installing dill via "pip install dill" for enhanced pickling support.
+INFO (hyperopt.mongoexp): job exception: No module named 'temp_model'
+INFO (hyperopt.mongoexp): Error while unpickling. Try installing dill via "pip install dill" for enhanced pickling support.
+INFO (hyperopt.mongoexp): job exception: No module named 'temp_model'
