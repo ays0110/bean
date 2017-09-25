@@ -1,6 +1,9 @@
 env
 torso
 seg_slices
+__pycache*
+**.DS_Store*
+**.atropos
 
 # Created by https://www.gitignore.io/api/python
 
