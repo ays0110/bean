@@ -1,4 +1,6 @@
+opencv-python
 tensorflow
+leveldb
 jupyter
 pydicom
 matplotlib
@@ -16,3 +18,5 @@ nibabel
 hyperopt
 git+https://github.com/maxpumperla/hyperas
 dill
+fastdtw
+ucrdtw
