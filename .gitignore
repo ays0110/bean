@@ -16,6 +16,9 @@ __pycache__/
 # C extensions
 *.so
 *.nii
+*.png
+*.npy
+*.h5
 
 # Distribution / packaging
 .Python
